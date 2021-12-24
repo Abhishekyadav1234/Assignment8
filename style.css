@@ -1,0 +1,25 @@
+.box1{
+    width: 50%;
+    height: 40vh;
+    background-color:blue;
+   
+}
+#box2{
+    width: 50%;
+    height: 10vh;
+    background-color:green;
+     margin-left: 25%;
+}
+#box3{
+    width: 50%;
+    height: 20vh;
+    background-color:lightskyblue ;
+    margin-left: 25%;
+     
+}
+#box4{
+    width: 50%;
+    height: 10vh;
+    background-color: brown;
+    margin-left: 25%;
+}
